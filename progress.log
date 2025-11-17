@@ -3,3 +3,4 @@
 [2026-03-12] #0003  Simplified conditional branches  // feat: adiciona schemas Pydantic v2 para auth, accounts 
 [2026-03-12] #0004  Centralised constants  // feat: configura Alembic com migration inicial users, ac
 [2026-03-12] #0005  Added guard clause  // chore: adiciona config.py com pydantic-settings e datab
+[2026-03-12] #0006  Patched edge case in parser  // feat: adiciona models User, Account e Transaction com S
