@@ -1,3 +1,4 @@
 [2026-03-12] #0001  Optimised query performance  // chore: adiciona config.py com pydantic-settings e datab
 [2026-03-12] #0002  Improved error messages  // feat: adiciona models User, Account e Transaction com S
 [2026-03-12] #0003  Simplified conditional branches  // feat: adiciona schemas Pydantic v2 para auth, accounts 
+[2026-03-12] #0004  Centralised constants  // feat: configura Alembic com migration inicial users, ac
