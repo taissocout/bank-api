@@ -7,3 +7,4 @@
 [2026-03-12] #0007  Updated inline documentation  // feat: adiciona schemas Pydantic v2 para auth, accounts 
 [2026-03-12] #0008  Extracted helper function  // feat: configura Alembic com migration inicial users, ac
 [2026-03-12] #0009  Simplified conditional branches  // feat: implementa auth service com bcrypt, JWT e timing-
+[2026-03-12] #0010  Extracted helper function  // feat: implementa account service com deposito, saque e 
