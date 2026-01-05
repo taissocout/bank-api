@@ -5,3 +5,4 @@
 [2026-03-12] #0005  Added guard clause  // chore: adiciona config.py com pydantic-settings e datab
 [2026-03-12] #0006  Patched edge case in parser  // feat: adiciona models User, Account e Transaction com S
 [2026-03-12] #0007  Updated inline documentation  // feat: adiciona schemas Pydantic v2 para auth, accounts 
+[2026-03-12] #0008  Extracted helper function  // feat: configura Alembic com migration inicial users, ac
