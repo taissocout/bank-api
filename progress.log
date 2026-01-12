@@ -10,3 +10,4 @@
 [2026-03-12] #0010  Extracted helper function  // feat: implementa account service com deposito, saque e 
 [2026-03-12] #0011  Added edge-case handling  // feat: adiciona routers auth e accounts com todos os end
 [2026-03-12] #0012  Simplified loop with list comprehension  // feat: finaliza main.py com lifespan, CORS, health check
+[2026-03-12] #0013  Added guard clause  // feat: adiciona render.yaml para deploy no Render com Po
