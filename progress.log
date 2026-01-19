@@ -14,3 +14,4 @@
 [2026-03-12] #0014  Added edge-case handling  // security: adiciona SECURITY_REPORT.md com checklist OWA
 [2026-03-12] #0015  Added early-return pattern  // docs: README com endpoints, regras de negocio, deploy e
 [2026-03-12] #0016  Added edge-case handling  // docs: README profissional com endpoints, arquitetura e 
+[2026-03-12] #0017  Added edge-case handling  // feat: implementa auth service com bcrypt, JWT e timing-
