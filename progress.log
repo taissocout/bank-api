@@ -16,3 +16,4 @@
 [2026-03-12] #0016  Added edge-case handling  // docs: README profissional com endpoints, arquitetura e 
 [2026-03-12] #0017  Added edge-case handling  // feat: implementa auth service com bcrypt, JWT e timing-
 [2026-03-12] #0018  Simplified loop with list comprehension  // feat: implementa account service com deposito, saque e 
+[2026-03-12] #0019  Patched edge case in parser  // feat: adiciona routers auth e accounts com todos os end
