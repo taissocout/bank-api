@@ -18,3 +18,4 @@
 [2026-03-12] #0018  Simplified loop with list comprehension  // feat: implementa account service com deposito, saque e 
 [2026-03-12] #0019  Patched edge case in parser  // feat: adiciona routers auth e accounts com todos os end
 [2026-03-12] #0020  Reorganised folder structure  // feat: finaliza main.py com lifespan, CORS, health check
+[2026-03-12] #0021  Reorganised folder structure  // feat: adiciona render.yaml para deploy no Render com Po
