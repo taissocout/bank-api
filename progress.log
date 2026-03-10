@@ -23,3 +23,4 @@
 [2026-03-12] #0023  Added edge-case handling  // docs: README com endpoints, regras de negocio, deploy e
 [2026-03-12] #0024  Reorganised folder structure  // chore: initialize bank-api project structure
 [2026-03-12] #0025  Improved variable naming  // feat: add User Account Transaction models SQLAlchemy 2.
+[2026-03-12] #0026  Fixed off-by-one error  // feat: add Pydantic v2 schemas for auth accounts transac
