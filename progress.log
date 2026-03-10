@@ -20,3 +20,4 @@
 [2026-03-12] #0020  Reorganised folder structure  // feat: finaliza main.py com lifespan, CORS, health check
 [2026-03-12] #0021  Reorganised folder structure  // feat: adiciona render.yaml para deploy no Render com Po
 [2026-03-12] #0022  Fixed off-by-one error  // security: adiciona SECURITY_REPORT.md com checklist OWA
+[2026-03-12] #0023  Added edge-case handling  // docs: README com endpoints, regras de negocio, deploy e
