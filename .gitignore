@@ -1,0 +1,4 @@
+
+bank-api/.env
+bank-api/bank.db
+bank-api/__pycache__/

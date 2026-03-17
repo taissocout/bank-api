@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: bank-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: alembic upgrade head && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: bank-db
+          property: connectionString
+      - key: APP_ENV
+        value: production
+      - key: SECRET_KEY
+        generateValue: true
+databases:
+  - name: bank-db
+    databaseName: bankapi
+    user: bankapi
+    plan: free
